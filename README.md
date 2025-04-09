@@ -40,4 +40,6 @@ Given user reviews from cab services like Uber, we aim to:
 
 ## 📁 Files & Directory Structure
 
-cab-review-classifier/ ├── dataset_creation.py # Synthetic dataset generator ├── trainer.py # BERT fine-tuning script ├── main.py # Inference / classification pipeline ├── requirements.txt # Dependencies ├── README.md # This file └── models/ # (Not uploaded) Contains trained BERT models
+cab-review-classifier/ ├── dataset_creation.py # Synthetic dataset generator ├── trainer.py # BERT fine-tuning script ├── main.py # Inference ├── requirements.txt # Dependencies ├── README.md # This file └── TrainedClassifierModels/ # (Not uploaded) Contains trained BERT models
+
+
